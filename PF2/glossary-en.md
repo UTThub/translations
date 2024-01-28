@@ -405,3 +405,67 @@ Worldwound
 Zenj
 
 Zon-Kuthon
+
+## LOWG Old Cheliax map
+
+Arcadian Ocean
+
+Inner Sea
+
+Nidal
+
+Nisroch
+
+Pangolais
+
+Uskwood
+
+Ridwan
+
+Mindspin Mountains
+
+Vyre
+
+Kintargo
+
+Ravounel
+
+Dismal Nitch
+
+Pezzack
+
+Devil's Perch
+
+Barrowood
+
+Cheliax
+
+Westcrown
+
+Egorian
+
+Corentyn
+
+Khari
+
+Whisperwood
+
+Senara
+
+Finder's Gulch
+
+Brastlewark
+
+Elidir
+
+Isger
+
+Logas
+
+Chitterwood
+
+Gillamoor
+
+Aspodell Mountains
+
+Ostenso
