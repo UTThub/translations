@@ -1,18 +1,18 @@
 ## LOWG
 
-Abadar
+Абадар
 
-Absalom 
+Абсалом
 
-Absalom Reckoning 
+Absalom Reckoning
 
 Abyssal Believed
 
-access 
+access
 
-Achaekek 
+Achaekek
 
-Age of Darkness 
+Age of Darkness
 
 Age of Lost Omens
 
@@ -38,31 +38,31 @@ Aspis Consortium
 
 Avistan
 
-Azlant 
+Azlant
 
 backgrounds
 
-Barrier Wall 
+Barrier Wall
 
-Bekyar 
+Bekyar
 
-Belkzen 
+Belkzen
 
 Bellflower Network
 
-Besmara 
+Besmara
 
 black pearl aeon stone
 
 blessed tattoo
 
-Bloodcove 
+Bloodcove
 
-Bonuwat 
+Bonuwat
 
 Brevoy
 
-Calistria 
+Calistria
 
 Casandalee
 
@@ -150,7 +150,7 @@ Green Faith
 
 half-elf
 
-half-orc 
+half-orc
 
 halfling
 
@@ -168,7 +168,7 @@ human
 
 Infernal
 
-Inner Sea region 
+Inner Sea region
 
 Iomedae
 
@@ -240,7 +240,7 @@ magic warrior
 
 Mana Wastes
 
-Mauxi 
+Mauxi
 
 Mediogalti Island
 
@@ -248,7 +248,7 @@ Mendev
 
 Molthune
 
-Mordant Spire 
+Mordant Spire
 
 Mualijae
 
@@ -298,7 +298,7 @@ pesh
 
 Pharasma
 
-Prophecies of Kalistrade 
+Prophecies of Kalistrade
 
 Qadira
 
@@ -406,7 +406,7 @@ Zenj
 
 Zon-Kuthon
 
-## LOWG Old Cheliax map
+## LOWG карта Старого Челіакса
 
 Arcadian Ocean
 
