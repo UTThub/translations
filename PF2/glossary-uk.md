@@ -1,8 +1,8 @@
 ## LOWG
 
-Абадар
+Abadar
 
-Абсалом
+Absalom
 
 Absalom Reckoning
 
@@ -406,7 +406,7 @@ Zenj
 
 Zon-Kuthon
 
-## LOWG карта Старого Челіакса
+## LOWG Old Cheliax map
 
 Arcadian Ocean
 
