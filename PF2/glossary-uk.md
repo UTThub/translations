@@ -1,6 +1,6 @@
 ## LOWG
 
-Abadar
+Абадар
 
 Absalom
 
