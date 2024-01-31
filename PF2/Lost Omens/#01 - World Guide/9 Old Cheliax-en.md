@@ -2,20 +2,28 @@
 
 ### Nations
 
-Cheliax [LE]**
+**Cheliax [LE]**
+
 **Diabolic Monarchy**
+
 **Capital:** Egorian (82,100)
 
 **Isger [LN]**
+
 **Vassal State of Cheliax**
+
 **Capital:** Elidir (11,900)
 
 **Nidal [LE]**
+
 **Militaristic Theocracy**
+
 **Capital:** Pangolais (18,900)
 
 **Ravounel [CG]**
+
 **Burgeoning Confederation**
+
 Capital: Kintargo (12,500)
 
 ### Peoples
