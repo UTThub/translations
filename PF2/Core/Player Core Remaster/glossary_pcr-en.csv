@@ -108,7 +108,7 @@ location,source,target,id,fuzzy,context,translator_comments,developer_comments
 ,,burrow Speed,burrow_Speed,,,burrow Speed 420,
 ,,burst,burst,,,burst (area) 428,
 ,,campaign,campaign,,,campaign A serialized story focusing on a single party of characters and taking place over multiple adventures. 7,
-,,cantrip trait A spell,cantrip_trait_A_spell,,,cantrip (trait) A spell you can cast at will that is automatically heightened to half your level rounded up. 298,
+,,cantrip,cantrip_trait_A_spell,,,cantrip (trait) A spell you can cast at will that is automatically heightened to half your level rounded up. 298,
 ,,Cast a Spell,Cast_a_Spell,,,Cast a Spell (activity) 299,
 ,,celestial,celestial,,,celestial (trait) Creatures that hail from or have a strong connection to the holy planes are called celestials. Celestials can survive the basic environmental effects of planes in the Outer Sphere.,
 ,,changeling,changeling,,,changeling (trait) A creature with this trait has the changeling versatile heritage. Changelings are the children of hags and members of other humanoid ancestries. An ability with this trait can be used or selected only by changelings. 76–77,
