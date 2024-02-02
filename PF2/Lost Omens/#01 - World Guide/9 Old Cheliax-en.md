@@ -453,7 +453,7 @@ You’re trained in the Religion skill and the Hell Lore skill You gain the Stud
 
 You have presented yourself to a Hellknight citadel as a candidate to become a fearsome Hellknight. You believe that all who live must be forced to obey law, and you adventure as a test of your loyalty, discipline, and courage. Someday you will take the Hellknight test and battle a devil in single combat to prove your strength and join the Hellknight ranks.
 
-### HELLKNIGHT ARMIGER DEDICATION  (FEAT 2)
+### HELLKNIGHT ARMIGER DEDICATION (FEAT 2)
 
 ***
 
@@ -508,7 +508,7 @@ Your Hellknight training drilled details of Hell’s denizens deep into your min
 
 Your reckonings have prepared your body for physical punishment. Choose bludgeoning, piercing, or slashing damage, based on the nature of your physical reckonings. You gain resistance to the chosen damage type equal to your number of class feats from the Hellknight Armiger archetype and other Hellknight archetypes.
 
-### ARMIGER’S MOBILITY  (FEAT 8)
+### ARMIGER’S MOBILITY (FEAT 8)
 
 ***
 
