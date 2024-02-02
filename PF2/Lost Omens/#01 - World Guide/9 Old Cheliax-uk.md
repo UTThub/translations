@@ -2,13 +2,29 @@
 
 ### Нації
 
-Cheliax [LE]** **Diabolic Monarchy** **Capital:** Egorian (82,100)
+**Cheliax [LE]**
 
-**Isger [LN]** **Vassal State of Cheliax** **Capital:** Elidir (11,900)
+**Diabolic Monarchy**
 
-**Nidal [LE]** **Militaristic Theocracy** **Capital:** Pangolais (18,900)
+**Capital:** Egorian (82,100)
 
-**Ravounel [CG]** **Burgeoning Confederation** Capital: Kintargo (12,500)
+**Isger [LN]**
+
+**Vassal State of Cheliax**
+
+**Capital:** Elidir (11,900)
+
+**Nidal [LE]**
+
+**Militaristic Theocracy**
+
+**Capital:** Pangolais (18,900)
+
+**Ravounel [CG]**
+
+**Burgeoning Confederation**
+
+Capital: Kintargo (12,500)
 
 ### Peoples
 
@@ -794,7 +810,7 @@ from the Hellknight armiger archetype.
 
 ***
 
-**ARCHETYPE**
+**АРХЕТИП**
 
 **Prerequisites** Hellknight Armiger Dedication
 
@@ -832,7 +848,7 @@ a critical failure on this check, you get a failure instead.
 
 ***
 
-**ARCHETYPE**
+**АРХЕТИП**
 
 **Prerequisites** Hellknight Armiger Dedication
 
@@ -848,7 +864,7 @@ archetypes.
 
 ***
 
-**ARCHETYPE**
+**АРХЕТИП**
 
 **Prerequisites** expert in heavy armor, Hellknight Armiger Dedication
 
