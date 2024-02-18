@@ -14,7 +14,7 @@
 
 **Age of Darkness** The age following Earthfall, ranging from –5293 ar to –4294 ar. World Guide 6
 
-**Age of Lost** Omens The current age, brought about by the death of Aroden in 4606 ar. World Guide 8–9
+**Age of Lost Omens** The current age, brought about by the death of Aroden in 4606 ar. World Guide 8–9
 
 **Akiton** Fourth planet from the sun. Known as the Red Planet. World Guide 9
 
