@@ -6,7 +6,7 @@ location,source,target,id,fuzzy,context,translator_comments,developer_comments
 ,,Abyssal,Abyssal,,,Abyssal Believed to be the first language developed in the Outer Sphere. Commonly spoken by demons.,
 ,,agathion,agathion,,,"agathion A type of celestial with bestial features, born of the enlightened soul of a good mortal. Native to Nirvana.",
 ,,Age of Darkness,Age_of_Darkness,,,"Age of Darkness The age following Earthfall, ranging from –5293 ar to –4294 ar. World Guide 6",
-,,Age of Lost,Age_of_Lost,,,"Age of Lost Omens The current age, brought about by the death of Aroden in 4606 ar. World Guide 8–9",
+,,Age of Lost Omens,Age_of_Lost_Omens,,,"Age of Lost Omens The current age, brought about by the death of Aroden in 4606 ar. World Guide 8–9",
 ,,Akiton,Akiton,,,Akiton Fourth planet from the sun. Known as the Red Planet. World Guide 9,
 ,,Andoran,Andoran,,,Andoran A relatively young nation in southern Avistan known for its adherence to democracy and personal freedom. World Guide 122–124,
 ,,android,android,,,android* A synthetic humanoid ancestry created by artificial means. Most common in Numeria. 68–73,
@@ -112,7 +112,7 @@ location,source,target,id,fuzzy,context,translator_comments,developer_comments
 ,,Jalmeray,Jalmeray,,,Jalmeray An island nation off the eastern coast of Garund that is home to immigrants from the distant region of Vudra. World Guide 77–79,
 ,,Jaric,Jaric,,,Jaric A halfling ethnic group that mostly dwells in the Barrier Wall mountains of Garund. Character Guide 41,
 ,,Jotun,Jotun,,,Jotun The language of giants and related creatures.,
-,,Kallijae,Kallijae,,,Kallijae One of the three ethnic groups that make up the Mualijae elves; native to the northwestern Mwangi Expanse. Character Guide 24,
+,,Kallijae,Kallijae,,,Kallijae One of the three ethnic groups that make up the Mualijae elves, native to the northwestern Mwangi Expanse. Character Guide 24
 ,,Katapesh,Katapesh,,,Katapesh A nation on the northeastern coast of Garund known for its markets. World Guide 51–53,
 ,,Keleshite,Keleshite,,,"Keleshite In the Inner Sea region, this human ethnicity is common among the nations of the Golden Road. Character Guide 6–7",
 ,,Kellid,Kellid,,,"Kellid A human ethnicity of the Inner Sea region, originating among the mountains and steppes of northern Avistan. Character Guide 7",
